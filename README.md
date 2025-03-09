@@ -7,11 +7,11 @@ This repository contains the code for the paper **"Inferring Gene Regulatory Net
 The experiments in the paper use two datasets:
 
 1. **DREAM5 Dataset**  
-   The DREAM5 dataset is a well-known benchmark used in gene regulatory network inference. You can download the dataset from the following link:  
+   The DREAM5 dataset is a well-known benchmark used for gene regulatory network inference and can be downloaded from the following link:
    [DREAM5 Dataset](https://www.synapse.org/Synapse:syn2787209/wiki/70349)
 
 2. **Single-cell Gene Expression Dataset**  
-   This dataset is derived from single-cell RNA-seq experiments. You can download the dataset from the **GENELink** repository:
+   This dataset is derived from single-cell RNA-seq experiments and can be downloaded from the **GENELink** repository:
    [Single-cell Gene Expression Dataset](https://github.com/zpliulab/GENELink)
 
 ## Usage
