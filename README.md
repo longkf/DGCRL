@@ -11,7 +11,7 @@ The experiments in the paper use two datasets:
    [DREAM5 Dataset](https://www.synapse.org/Synapse:syn2787209/wiki/70349)
 
 2. **Single-cell Gene Expression Dataset**  
-   This dataset is derived from single-cell RNA-seq experiments. You can download the dataset from the following repository:  
+   This dataset is derived from single-cell RNA-seq experiments. You can download the dataset from the **GENELink** repository:
    [Single-cell Gene Expression Dataset](https://github.com/zpliulab/GENELink)
 
 
