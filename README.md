@@ -14,5 +14,6 @@ The experiments in the paper use two datasets:
    This dataset is derived from single-cell RNA-seq experiments. You can download the dataset from the **GENELink** repository:
    [Single-cell Gene Expression Dataset](https://github.com/zpliulab/GENELink)
 
+## Usage
 
 To change the dataset, you need to delete the “processed” folder in the corresponding folder. Use “train.py” and “load_data.py” if inferring DREAM5, or “train_SC.py” and “load_data_SC.py” if inferring single-cell.
