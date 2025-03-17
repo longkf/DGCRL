@@ -16,4 +16,4 @@ The experiments in the paper use two datasets:
 
 ## Usage
 
-To change the dataset, the “processed” folder in the corresponding folder needs to be deleted. Use “train.py” and “load_data.py” if inferring DREAM5, or “train_SC.py” and “load_data_SC.py” if inferring single-cell.
+To change the dataset, the “processed” folder in the corresponding folder needs to be deleted. Use “train.py” and “load_data.py” if inferring DREAM5, or “train_SC.py” and “load_SC.py” if inferring single-cell.
